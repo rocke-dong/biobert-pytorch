@@ -1,2 +1,4 @@
-dataset/
 z.*
+datasets/
+data/
+*.h5
