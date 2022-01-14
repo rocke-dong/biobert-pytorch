@@ -2,3 +2,4 @@ z.*
 datasets/
 data/
 *.h5
+.vscode
